@@ -33,3 +33,5 @@ Will they hook up again? Nobody knows, but it will be not good for Selena.
 I want to stash this line
 
 I want git to assume that this line is not a change
+
+Branch cherry line 1
