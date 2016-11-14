@@ -37,3 +37,5 @@ I want git to assume that this line is not a change
 Branch cherry line 1
 
 Branch cherry line 2 
+
+modfied to test reset 
